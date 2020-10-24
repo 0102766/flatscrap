@@ -6,4 +6,4 @@ eg.
 eg.
 ./BatchScrape http://www.gumtree.com/london/3.xml flatscrap.js
 (Exhibit JSON working with flatscrap.html)
-
+And thats all
